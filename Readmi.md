@@ -1,1 +1,0 @@
-this is the basic of javascript 
